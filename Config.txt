@@ -8,4 +8,4 @@
 
 6) pull request1
 
-7)
+7)2) commit from master
